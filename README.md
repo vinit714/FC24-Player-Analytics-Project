@@ -1,6 +1,9 @@
 # FIFA Player Analytics Project
 
-This project analyzes FIFA player and team data, with a focus on comparing male and female players, clustering them based on their attributes, and predicting their market value. It also includes a Shiny dashboard for an interactive analysis of player statistics.
+This project analyzes FIFA player and team data, focusing on comparing male and female players, clustering them based on their attributes, and predicting their market value. It also includes a Shiny dashboard for an interactive analysis of player statistics.
+
+![image](https://github.com/user-attachments/assets/f77dad2b-1e2d-4d23-a218-1d59790c1609)
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -23,14 +26,14 @@ The FIFA Player Analytics project leverages data from FIFA video game series, co
 
 ## Data Sources
 
-The data for this project is based on various CSV files representing both male and female players and teams. You can find these datasets in the project's `/data` directory. The data includes attributes such as player ratings, potential, market value, skills, and more.
+The data for this project is based on various CSV files representing both male and female players and teams. The data includes attributes such as player ratings, potential, market value, skills, and more.
 
 - **female_players.csv**
 - **male_players.csv**
 - **female_teams.csv**
 - **male_teams.csv**
 
-You can download the data from the [FIFA 25 Player and Team dataset](https://www.example.com) (replace with actual link if available).
+You can download the data from the [FIFA 25 Player and Team dataset](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset?resource=download) 
 
 ## Features
 
@@ -96,5 +99,5 @@ The Shiny dashboard provides an interactive interface for exploring the dataset.
 ```r
 shiny::runApp("app.R")
 ```
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
