@@ -33,7 +33,7 @@ The data for this project is based on various CSV files representing both male a
 - **female_teams.csv**
 - **male_teams.csv**
 
-You can download the data from the [FIFA 25 Player and Team dataset](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset?resource=download) 
+You can download the data from the [FIFA 24 Player and Team dataset](https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset?resource=download) 
 
 ## Features
 
