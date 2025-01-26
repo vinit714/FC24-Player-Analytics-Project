@@ -99,5 +99,3 @@ The Shiny dashboard provides an interactive interface for exploring the dataset.
 ```r
 shiny::runApp("app.R")
 ```
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
